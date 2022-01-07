@@ -1,0 +1,23 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-trigger-prod-105918-authRole",
+      "UnauthRoleArn": "arn:aws:iam::766476838928:role/amplify-trigger-prod-105918-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::766476838928:role/amplify-trigger-prod-105918-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-trigger-prod-105918-deployment",
+      "UnauthRoleName": "amplify-trigger-prod-105918-unauthRole",
+      "StackName": "amplify-trigger-prod-105918",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:766476838928:stack/amplify-trigger-prod-105918/06cfbea0-6ea5-11ec-bfc2-0223f5134c30",
+      "AmplifyAppId": "dgs2e0vgp2q2w"
+    },
+    "categories": {
+      "function": {
+        "trigger": {
+          "deploymentBucketName": "amplify-trigger-prod-105918-deployment",
+          "s3Key": "amplify-builds/trigger-4d337a64422b51452b31-build.zip"
+        }
+      }
+    }
+  }
+}
